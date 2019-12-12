@@ -6,7 +6,7 @@
 4 Death's Shadow\
 4 Gurmag Angler\
 3 Snapcaster Mage\
-4 Street Wraith\
+4 Street Wraith
 
 ### Instant ###
 2 Dismember\
@@ -14,16 +14,16 @@
 2 Lightning Bolt\
 3 Stubborn Denial\
 2 Temur Battle Rage\
-3 Thought Scour\
+3 Thought Scour
 
 ### Sorcery ###
 1 Faithless Looting\
 2 Inquisition of Kozilek\
 3 Serum Visions\
-4 Thoughtseize\
+4 Thoughtseize
 
 ### Artifact ###
-3 Mishra's Bauble\
+3 Mishra's Bauble
 
 ### Land ###
 1 Blood Crypt\
@@ -34,4 +34,4 @@
 1 Steam Vents\
 1 Swamp\
 2 Watery Grave\
-1 Wooded Foothills\
+1 Wooded Foothills
