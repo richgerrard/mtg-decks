@@ -1,4 +1,4 @@
-# Scion of the Ur Dragon #
+# Scion of the Ur-Dragon #
 
 ## Main Deck ##
 |   |   |
