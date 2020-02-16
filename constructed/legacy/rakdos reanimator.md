@@ -19,7 +19,7 @@ Source: [Rakdos Reanimator](https://www.mtggoldfish.com/deck/1793991#paper)
 | 4 | Exhume
 | 4 | Faithless Looting
 | 4 | Reanimate
-| 4 | Unmask
+| 4 | Thoughtseize
 |   |   |
 | 4 | Animate Dead
 |   |   |
