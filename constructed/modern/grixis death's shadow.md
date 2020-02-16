@@ -1,5 +1,7 @@
 # Grixis Death's Shadow #
 
+![Death's Shadow](../../images/Death%27s%20Shadow.jpg)
+
 ## Main Deck ##
 |   |   |
 |---|-----

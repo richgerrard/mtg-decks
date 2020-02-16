@@ -1,5 +1,7 @@
 # Arahbo's Cats #
 
+![Arahbo, Roar of the World](../images/Arahbo%2C%20Roar%20of%20the%20World.jpg)
+
 ## Main Deck ##
 |   |   |
 |---|-----

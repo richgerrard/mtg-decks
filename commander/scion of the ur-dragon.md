@@ -1,5 +1,7 @@
 # Scion of the Ur-Dragon #
 
+![Scion of the Ur-Dragon](../images/Scion%20of%20the%20Ur-Dragon.jpg)
+
 ## Main Deck ##
 |   |   |
 |---|-----

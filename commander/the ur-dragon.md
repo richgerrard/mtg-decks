@@ -1,5 +1,7 @@
 # The Ur-Dragon #
 
+![The Ur-Dragon](../images/The%20Ur-Dragon.jpg)
+
 ## Main Deck ##
 |   |   |
 |---|-----
