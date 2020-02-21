@@ -1,8 +1,8 @@
 # Tazri's Allies #
 
-Source: [Najeela vs Tazri](https://articles.edhrec.com/commander-showdown-najeela-vs-tazri/)
-
 ![General Tazri](../images/General%20Tazri.jpg)
+
+Source: [Najeela vs Tazri](https://articles.edhrec.com/commander-showdown-najeela-vs-tazri/)
 
 ## Main Deck ##
 |   |   |

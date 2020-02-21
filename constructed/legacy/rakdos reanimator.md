@@ -1,8 +1,8 @@
 # Rakdos Reanimator #
 
-Source: [Rakdos Reanimator](https://www.mtggoldfish.com/deck/1793991#paper)
-
 ![Reanimate](../../images/Reanimate.jpg)
+
+Source: [Rakdos Reanimator](https://www.mtggoldfish.com/deck/1793991#paper)
 
 ## Main Deck ##
 |   |   |
